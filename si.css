@@ -1,0 +1,55 @@
+#caja{
+    background-color: blue;
+    position: absolute;
+    width: 30%;
+    height: 40%;
+    top: 30%;
+    left: 35%;
+    z-index: 2;
+}
+body{
+    background-color: black;
+}
+a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+h1{
+    text-align: center;
+    position: absolute;
+    width: 90%;
+    height: 50%;
+    top: 30%;
+    left: 7%;
+    color: azure;
+}
+footer{
+    position: absolute;
+    width: 30%;
+    height: 40%;
+    top: 90%;
+    left: 80%;
+}
+#uno{
+    position: absolute;
+    width: 30%;
+    height: 40%;
+    top: 60%;
+    left: 10%;
+    transform: rotate(-4deg);
+}
+#dos{
+    position: absolute;
+    width: 30%;
+    height: 40%;
+    top: 3%;
+    left: 4%;
+    transform: rotate(8deg);
+}
+#video{
+    position: absolute;
+    width: 30%;
+    height: 40%;
+    top: 0%;
+    left: 75%;
+}
